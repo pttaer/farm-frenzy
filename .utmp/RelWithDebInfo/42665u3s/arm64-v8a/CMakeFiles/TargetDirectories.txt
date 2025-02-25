@@ -1,0 +1,5 @@
+E:/Projects/farm-frenzy/Farm frenzy/.utmp/RelWithDebInfo/42665u3s/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/Projects/farm-frenzy/Farm frenzy/.utmp/RelWithDebInfo/42665u3s/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/Projects/farm-frenzy/Farm frenzy/.utmp/RelWithDebInfo/42665u3s/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/Projects/farm-frenzy/Farm frenzy/.utmp/RelWithDebInfo/42665u3s/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/Projects/farm-frenzy/Farm frenzy/.utmp/RelWithDebInfo/42665u3s/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

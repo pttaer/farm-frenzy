@@ -1,0 +1,10 @@
+# ninja log v5
+35	11689	7621751840300000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	646f745641787fd0
+14	11706	7621751840300000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cebe0f8c4b98a3a6
+4	11714	7621751840300000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fa83a224110ce875
+59	11722	7621751840500000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	26f13a96a7724dae
+0	11728	7621751840500000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9a82b935a259856c
+46	11732	7621751840500000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fe16b1c6fdf984b6
+24	11756	7621751840300000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	62ccc0e25184228
+7	11762	7621751840400000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a82db355f6f35a68
+11762	11979	7621751958300000	E:/Projects/farm-frenzy/Farm frenzy/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/42665u3s/obj/arm64-v8a/libgame.so	887f0efe2bdbeaa3

@@ -1,0 +1,2 @@
+E:\Projects\farm-frenzy\Farm frenzy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\Projects\farm-frenzy\Farm frenzy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
